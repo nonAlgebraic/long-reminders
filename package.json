@@ -1,0 +1,14 @@
+{
+  "name": "long-reminders",
+  "version": "0.0.0",
+  "description": "PWA for managing long-term recurring todos.",
+  "author": {
+    "name": "nonAlgebraic",
+    "url": "https://github.com/nonAlgebraic"
+  },
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nonAlgebraic/long-reminders.git"
+  }
+}
